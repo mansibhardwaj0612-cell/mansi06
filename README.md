@@ -1,3 +1,3 @@
 ## 📸 Screenshot
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](C:\Users\ais\OneDrive\PowerBI\dashboard.png)
