@@ -1,3 +1,3 @@
 ## 📸 Screenshot
 
-![Dashboard Preview](images/dashboard-screenshot.png)
+![Dashboard Preview](images/dashboard.png)
